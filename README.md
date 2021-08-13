@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VinothS03
+- 👋 Hi, I’m Vinothkumar S
 - 👀 I’m interested in learn python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python except
